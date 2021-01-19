@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	int n;
-  cout<<"========================================="<< endl;
+        cout<<"========================================="<< endl;
 	cout<<"========MEMBUAT SETENGAH PIRAMIDA========"<< endl;
 	cout<<"========================================="<< endl;
 	cout << "masukkan panjang pola: ";
