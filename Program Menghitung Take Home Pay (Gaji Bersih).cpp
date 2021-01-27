@@ -21,7 +21,7 @@ using namespace std;
  	cout<<"Masukkan Nama Karyawan : ";
  	getline(cin,namakaryawan);
  	//Masukkan Gaji Pokok
- 	cout<<"Masukkan Gaji Pokok : Rp. ";
+ 	cout<<"Masukkan Gaji Pokok    : Rp. ";
  	cin>>gajipokok;
  	//Perhitungan Tunjangan
  	tunjangan = gajipokok * persentunjangan;
@@ -32,7 +32,7 @@ using namespace std;
  	garis();
  	//Hasil Akhir
  	cout<<"Nama Karyawan : "<<namakaryawan<<endl;
- 	cout<<"Gaji Bersih : Rp. "<<gajibersih<<endl;
+ 	cout<<"Gaji Bersih   : Rp. "<<gajibersih<<endl;
  	
  	return 0;
  }
