@@ -13,7 +13,7 @@ int main ()
 	diskon3 = 0.15;
 	
 	cout << "                 PROGRAM MENGHITUNG DISKON               " <<endl;
-  garis();
+        garis();
 	cout << "Masukan Total Belanja : Rp. ";
 	cin >> totalbelanja;
 	cout <<endl;
